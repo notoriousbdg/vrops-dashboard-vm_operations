@@ -6,7 +6,7 @@ Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operatio
 
 ## Screenshots
 ### Dashboard: VM Operations
-![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-vm_operations/main/images/Dashboard-VM_Operations.png)
+![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-vm_operations/main/images/Dashboard.png)
 
 ## Installation
 1. Import the dashboard at `Visualize` / `Dashboards` / `Manage` / `...` / `Import`
