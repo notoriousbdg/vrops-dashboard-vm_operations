@@ -5,8 +5,7 @@
 Use this [vRealize Operations](https://www.vmware.com/products/vrealize-operations.html) dashboard to view VM operations throughout a vSphere environment.  VM operations include tasks like create, clone, reconfigure, delete, vMotion, svMotion, power on, power off, reboot, and more.
 
 ## Screenshots
-### Dashboard: VM Operations
-![Dashboard: Showback (VM Cost)](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-vm_operations/main/images/Dashboard.png)
+![Dashboard](https://raw.githubusercontent.com/notoriousbdg/vrops-dashboard-vm_operations/main/images/Dashboard.png)
 
 ## Installation
 1. Import the dashboard at `Visualize` / `Dashboards` / `Manage` / `...` / `Import`
